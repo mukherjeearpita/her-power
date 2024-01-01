@@ -1,0 +1,22 @@
+<iframe src="https://bing.com" height="500" width="1000"frameborder="0">google</iframe>
+<iframe src="https://google.com" height="500" width="1000"frameborder="0">google</iframe>
+<iframe src="D:\New folder/class13assignment.html" height="500" width="1000"frameborder="0">google</iframe>
+<iframe src="https://fiverr.com"height="500"width="1000"frameborder="0">google</iframe>
+
+<audio controls>
+		<source src="epic-hybrid-logo-157092.mp3" type="audio/mpeg"></source>
+		</audio>
+		
+<video height="200"width="400" controls>
+		<source src="pexels-ron-lach-8262768 (Original).mp4" type="video/mp4"></source>
+		</video>
+		<video height="200"width="400" controls>
+		<source src="video (1080p).mp4"type="video/mp4"></source>
+		</video>
+		<video height="200"width="400"controls>
+		<source src="video.mp4"type="video/mp4"></source>
+		</video>
+		<video height="200"width="300" controls>
+		<source src="reel.mp4"type="video/mp4"></source>
+		</video>
+		

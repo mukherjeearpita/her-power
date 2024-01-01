@@ -1,0 +1,19 @@
+.grid-container{
+	display:grid;
+	grid-template-columns:100px 100px 100px 100px 100px 100px;
+	grid-template-rows:100px 100px 100px 100px 100px 100px 100px 100px 100px;
+	justify-content:space-evenly;
+	gap:20px;
+}
+.grid-container div{
+	display:grid;
+	justify-content:center;
+	align-content:center;
+	background-color:aqua;
+	border:1px solid black;
+}
+.a{
+	grid-column-start:1;
+	grid-column-end:3;
+}
+

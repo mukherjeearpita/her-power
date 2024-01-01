@@ -1,0 +1,89 @@
+<head>
+<title>document</title>
+	<link rel="stylesheet" href="BS/css/bootstrap.min.css">
+	<script src="BS/js/bootstrap.min.js"></script>
+	</head>
+	<body>
+	
+	<div class="container">
+	<form action="">
+		<div class="row">
+		
+		<div class="col-6">
+		<label for="NAME">NAME:</label>
+		<input class="form-control"type="text">
+		</div>
+		
+		<div class="col-6">
+		<label for="">NLD:</label>
+		<input class="form-control"type="number">
+		</div>
+		
+		<div class="col-6">
+		<label for="">EMail:</label>
+		<input class="form-control"type="Email">
+		</div>
+		
+		<div class="col-6">
+		<lable for="">image:</label>
+		<input class="form-control"  type="file" accept="image/jpg">
+		</div>
+		
+		<div class="col-6"> 
+		<lable for="">Date of birth:</lable>
+		<input class="form-control"  type="date">
+		</div>
+		
+		<div class="col-6">
+		<lable for="">gender:</lable>
+		<select class="form-control" id="">
+		<option value="">female</option>
+		<option value="">male</option>
+		</select>
+		</div>
+		
+		<div class="col-6">
+		<label style="GANDER">GENDER:</label>
+		<label for="">female</label>
+		<input class="form-control" type="radio"value="female"name="gender">
+		<label for="">Male</label>
+		<input class="form-control" type ="radio"value="male"name="gender">
+	   </div>
+	   <div class="col-6">
+		<label style="">upozila:</label>
+		<label for="">magura sador</label>
+		<input class="form-control" type="radio"value="magura sador"name="upozila">
+		<label for="">sreepur</label>
+		<input class="form-control" type="radio"value="sreepur" name="upozila">
+		</div>
+		<div class="col-6">
+		<input type="checkbox" id="check">
+		<label for="check" >I agree to the trems and condition </label>
+		</div>
+		
+		<div class="col-6">
+		<label for="">password:</label>
+		<input class="form-control"  type="password">
+		</div>
+		
+		<div class="col-6">
+		<label for="">Phone:</label>
+		<input class="form-control"  type="tel" pattern="[0-9]{11}">
+		</div>
+		
+		<div class="col-6">
+		<img src="backgrounpic.jpg" alt="image" height="100" width="200">
+		</div>
+		<div class="mt-3">
+		<button class="btn btn-success" type="submit">submit</button>
+		<button class="btn btn-danger" type="reset">reset</button>
+		
+		</div>
+		
+		
+		</div>
+		
+		</form>
+		</div>
+	</body>
+	</html>

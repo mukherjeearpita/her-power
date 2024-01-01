@@ -1,0 +1,25 @@
+<head>
+	<meta charset="UTF-8>
+	<meta name="viewport"content="width=device-width,initial-scale=1.0">
+	<title>document</title>
+	<link rel="stylesheet" href="practice.css">
+	</head>
+	<body>
+	<div class="grid-container">
+	<div class="a">iteam1</div>
+	<div class="b">iteam2</div>
+	<div class="c">iteam3</div>
+	<div class="d">iteam1</div>
+	<div class="e">iteam2</div>
+	<div class="f">iteam3</div>
+	<div class="g">iteam1</div>
+	<div class="h">iteam2</div>
+	<div class="i">iteam3</div>
+	<div class="j">iteam1</div>
+	<div class="k">iteam2</div>
+	<div class="l">iteam3</div>
+	</div>
+	
+	
+	
+	</body>

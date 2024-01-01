@@ -1,0 +1,17 @@
+##theory
+
+*class-1( intro to Doict, introduction of freelanceing, freelanceling vs outsourcing, types of marketplace types of jobs, protfolio and branding, payment method.
+*class-2(introduction to windows, basic consept of computer heardware)
+*class-3(IP address )
+*class-4(password awareness, types of internet attcks, phishing)
+*class-7(concepts of 4IR)
+*class-11( 1st 4 topics)
+
+
+##practical
+
+1.CV
+2.Form(Text;password;email;number;tel;chack box;date;file,radio,deopdown)
+3.MS excel
+4.MS word
+5.MS power point

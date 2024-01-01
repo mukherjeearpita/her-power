@@ -1,0 +1,27 @@
+<head>
+	<meta charset="UTF-8>
+	<meta name="viewport"content="width=device-width,initial-scale=1.0">
+	<title>document</title>
+	<link rel="stylesheet" href="BS/css/bootstrap.min.css">
+	<script src="BS/js/bootstrap.min.js"></script>
+	</head>
+	<body style="background-color:gray">
+	
+	<div class="container">
+	<div class="row">
+	<div class="col-8">
+	<p class="bg-info" style="font-size:40px;"><a href="">Arpita Mukherjee</a></p>
+	</div>
+	<div class="col-2">
+	<p class="bg-info" style="font-size:20px;"><a href="#">CV</a></p>
+	</div>
+	<div class="col-2">
+	<p class="bg-info" style="font-size:20px;"><a href="#">Form</a></p>
+	</div>
+	
+	
+	</div>
+	
+	
+	</div>
+	</body>

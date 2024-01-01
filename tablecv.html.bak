@@ -1,0 +1,58 @@
+ 
+<head>
+	<meta charset="UTF-8>
+	<meta name="viewport"content="width=device-width,initial-scale=1.0">
+	<title>document</title>
+	<link rel="stylesheet" href="style.css">
+	</head>
+
+<style>
+
+
+</style>
+<h1 class="A">curiculam vitae</h1>
+<h3 class="B">personal information</h3>
+<table>
+<tbody>
+<tr>
+<td>NAme</td>
+<td> :</td>
+<td>hgdytfijho</td>
+</tr>
+<tr>
+<td>father's name</td>
+<td>: </td>
+<td> jhtukyrytsdgfi</td>
+
+</tr>
+<tr>
+<td>mother's name</td>
+<td>: </td>
+<td>ytrthrdghvkty</td>
+</tr>
+</table>
+<h3 class="B">Educetion information</h3>
+<table>
+<thead>
+<th>EXAM NAME</th>
+<th>Institution</th>
+<th>RESult</th>
+<th>year</th>
+</thead>
+<tbody>
+<tr>
+<td>HSC</td>
+<td>GOVT.H.S.S.College,magura</td>
+<td>5.oo</td>
+<td>2000</td>
+</tr>
+<tr>
+<td>SSC</td>
+<td>GOVT.GIRL'S School,Magura</td>
+<td>4.92</td>
+<td>2002</td>
+</tr>
+
+
+</tbody>
+</table>

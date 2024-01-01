@@ -1,0 +1,19 @@
+
+@media(max-width:430px){
+	.heading{
+		font-size:20px;
+		}
+}
+@media(min-width:431px){
+	
+	.headind{
+		font-size:30px;
+		
+	}	
+}
+@media(min-width:1024px){
+	.heading{
+		font-size:50px;
+		
+	}
+}

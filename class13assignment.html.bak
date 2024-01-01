@@ -1,0 +1,28 @@
+1.creat a table with 4 heading and 4 colums with random data into 2 row.
+2.degine at with your prefer colors.
+
+
+
+
+<table>
+	<thead style="font-size:50;color:pink">
+		<th>SL.</th>
+		<th>NAME</th>
+		<th>post</th>
+		<th>MOBILE NO.</th>
+	</thead>
+	<tbody style="color:brown">
+		<tr>
+		<td>01.</td>
+		<td>RIMA</td>
+		<td>MANEGER</td>
+		<td>01912345678</td>
+		</tr>
+		<tr>
+		<td>02.</td>
+		<td>RONY</td>
+		<td>A.MANEGER</td>
+		<td>01798765432</td>
+		</tr>
+	</tbody>
+	</table>

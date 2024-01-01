@@ -1,0 +1,35 @@
+<form action="">
+<label for="">NAME:</label>
+<input type="text"><br>
+<label for="">NID:</label>
+<input type="number" style="margin-top:20px"><br>
+<label for="">Email</label>
+<input type="email"style="margin-top:20px">
+<button type="submit">submit</button></br>
+<label for="">DATE OF BIRTH</label>
+<input type="date"style="margin-top:20px"><br>
+<label for="">Gander.</label>
+<select id=""style="margin-top:20px">
+<option value="female">Female</option>
+<option value="male">MAle</option>
+</select></br>
+<label style="gander">Gander</label>
+<label for="">Female</label>
+<input type="radio"value="female"style="margin-top:20px;"name="gander">
+<label for="">male</label>
+<input type="radio"value="male"style="margin-top:20px;"name="gander"><br>
+<label style="upozila">upozila</label>
+<label for="">magura sador</label>
+<input type="radio"value="magura sador" style=margin-top:20px;"name="upozila">
+<label for="">sheepur</label>
+<input type="radio"value="sheepur" style="margin-top:20px;"name="upozila"><br>
+<label for="">Password</label>
+<input type="password"style="margin-top:20px;"><br>
+<label for="">phone</label>
+<input type="tel"pattern="[0-9]{11}" style="margin-top:20px;">
+<img src="images.jpg"alt="cat">
+<input type="checkbox"id="check"style="margin-top:20px;">
+<label for="check" >I agree to the trems and condition </label>
+<button type="submit">submit</button><br>
+
+

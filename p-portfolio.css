@@ -1,0 +1,54 @@
+*{
+text-decoration:none;
+list-style:none;
+padding:0;
+margin:0;
+}
+
+.hero-title{
+	margin-top:100px;
+	
+}
+.hero-border{
+	border:3px solid blue;
+	
+}
+.seemore{
+	color:brown;
+	padding:3px;
+}
+.seemore:hover{
+	text-decoration:none;
+	color:white;
+	background-color:gray;
+	
+}
+.footer{
+	border:3px solid blue;
+	
+}
+.footer ul li{
+	color:white;
+}
+.footer ul li a{
+	color:white;
+}
+.cat{
+	margin-top:0;
+	position:absolute;
+	background-color:gray;
+	display:none;
+}
+.cat li{
+	display:block;
+	padding:10px;
+	border-bottom:1px solid black;
+	
+	
+}
+.cat li a{
+	color:green;
+}
+.dropdown:hover .cat{
+	display:block;
+}

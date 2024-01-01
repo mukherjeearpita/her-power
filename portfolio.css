@@ -1,0 +1,52 @@
+*{
+padding:0;
+margin:0;
+text-decoration:none;	
+}
+nav{
+background-color:pink;	
+height:70px;	
+}
+label{
+	font-size:40px;
+}
+label a{
+	color:brown;
+}
+nav ul li{
+	font-size:30px;
+	display:inline-block;
+	margin-left:20px;
+}
+nav ul{
+	float:right;
+}
+nav ul li a{
+	padding:7px;
+	color:black;
+	
+}
+nav ul li a:hover{
+	padding:7px;
+	border-radius:5px;
+	background-color:brown;
+	color:white;
+	
+}
+body{
+	background-color:gray !important;
+}
+body h3{
+	font-size:40px;
+	color:green;
+	border:5px solid black;
+	width:200;
+	background-color:aqua;
+	
+}
+body p,ul li {
+	color:white;
+}
+body{
+	background-color:red;
+}

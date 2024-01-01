@@ -1,0 +1,11 @@
+<head>
+	<meta charset="UTF-8>
+	<meta name="viewport"content="width=device-width,initial-scale=1.0">
+	<title>media query</title>
+	<link rel="stylesheet" href="media.css">
+	</head>
+	<body>
+	<h1>Arpita Mukherjee</h1>
+	<h2>Arpita mukkherjee</h2>
+	<h3>Arpita mukherjee</h3>
+	</body>

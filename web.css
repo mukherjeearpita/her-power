@@ -1,0 +1,32 @@
+label a{
+	font-size:50px;
+	color:white;
+}
+nav{
+	background-color:pink;
+	height:70px;
+}
+nav ul li{
+	display:inline-block;
+	font-size:30px;
+}
+nav ul{
+	float:right;
+	margin-left:20px
+	}
+*{
+list-style:none;	
+padding:0;
+text-decoration:none;
+margin:0;	
+}
+nav ul li a{
+color:black;
+padding:8px;	
+}
+nav ul li a:hover{
+background-color:brown;
+padding:8px;
+color:white;
+border-radius:8px;	
+}

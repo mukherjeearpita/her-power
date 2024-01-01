@@ -1,0 +1,21 @@
+.grid-container{
+	display:grid;
+	grid-template-columns:100px 100px 100px 100px 100px;
+	grid-template-rows:100px 100px 100px;
+	
+}
+.grid-container div{
+	border:1px solid black;
+	
+	
+}
+.b{
+	grid-area:1/2/3/4
+	
+}
+.f{
+grid-column-start:4;
+grid-column-end:6;
+	
+	
+}
