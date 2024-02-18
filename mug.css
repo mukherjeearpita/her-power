@@ -1,0 +1,32 @@
+body{
+	
+	position:relative;
+	width:100px;
+	height:100px;
+}
+img{
+	 background-image:url(images/hero4.png);
+	 width:100%;
+	 height:100vh;
+	 background-size:cover;
+	 display:flex;
+	 flex-direction:column;
+	 align-items:flex-start;
+	 justify-content:center;
+	 padding:0 80px;
+}
+.mug{
+	--bg:blue;
+	--mug:pink;
+	--mug-light:gray;
+	--mug-dray:white;
+	--drink:black;
+	position:absolute;
+	display:block;
+	box-sizing:border-box;
+	width:70px;
+}
+.her{
+	width:20px;
+	height:30px;
+}

@@ -1,0 +1,19 @@
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport"content="width=device-width,initial-scale=1.0">
+	<title>document</title>
+	<link rel="stylesheet" href="mug.css">
+	<link rel="stylesheet"href="BS/css/bootstrap.min.css">
+	<script src="BS/js/bootstrap.min.js"></script>
+	</head>
+	<body>
+	<div class="mug">
+	<img src="download (5).jpg" alt="her">
+	</div>
+	
+	<img src="r.jpg" alt="mug">
+	
+	
+	
+	
+	</body>

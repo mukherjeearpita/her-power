@@ -1,0 +1,12 @@
+.grid-container{
+	display:grid;
+	grid-template-columns:autopx auto auto;
+	grid-template-rows:;auto auto auto auto;
+	justify-content:space-evenly;
+}
+.grid-container div{
+	display:grid;
+	justify-content:center;
+	align-content:center;
+	background-color:green;
+	border:1px solid black;

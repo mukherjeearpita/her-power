@@ -1,0 +1,27 @@
+body{
+	
+	position:relative;
+	width:100px;
+	height:100px;
+}
+img{
+	position:absolute;
+	top:50%;
+	left:45%;
+	transform:(-50%,-42%);
+}
+.mug{
+	--bg:blue;
+	--mug:pink;
+	--mug-light:gray;
+	--mug-dray:white;
+	--drink:black;
+	position:absolute;
+	display:block;
+	box-sizing:border-box;
+	width:70px;
+}
+.her{
+	width:20px;
+	height:30px;
+}
